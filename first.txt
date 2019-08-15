@@ -5,3 +5,4 @@ commit
 aaaaaaaaaa
 dxrgsdyfhbj
 git status
+git diff
